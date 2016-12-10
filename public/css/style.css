@@ -438,7 +438,8 @@ button:focus {
 	height:100%;
 	text-align:center;
 	/*background:#424242;*/
-	background:rgb(25, 31, 38)
+	background:rgb(25, 31, 38);
+	height: 300px;
 }
 .lx-loader img{
 	/*width:40px;*/
