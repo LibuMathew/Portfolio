@@ -20,7 +20,7 @@ $(document).on("ready",function(){
 	window.setTimeout(function(){
 		$(".lx-loader", ".lx-wrapper").fadeOut();
 		return false;
-	},1500);
+	},150000);
 	
 	return false;
 });
