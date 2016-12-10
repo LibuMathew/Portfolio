@@ -536,6 +536,7 @@ button:focus {
 @media(max-width:768px){
 	.lx-personal-info{
 		padding:20px;
+		padding-top: 80px;
 	}
 }
 .lx-personal-info em{
